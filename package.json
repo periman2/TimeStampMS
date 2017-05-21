@@ -1,0 +1,23 @@
+{
+  "name": "timestampms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/periman2/TimeStampMS.git"
+  },
+  "author": "Periklis Arnaoutis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/periman2/TimeStampMS/issues"
+  },
+  "homepage": "https://github.com/periman2/TimeStampMS#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "moment": "^2.18.1"
+  }
+}
